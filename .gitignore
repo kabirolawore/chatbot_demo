@@ -1,0 +1,10 @@
+myenv
+.conda_envs_dir_test
+.env
+models.ipynb
+sample.csv
+openai.txt
+dialogue.txt
+mountain.txt
+chatbot_demo
+/.conda_envs_dir_test
